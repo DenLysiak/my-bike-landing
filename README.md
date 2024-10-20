@@ -1,5 +1,6 @@
 # My Bike Landing
 - [DEMO LINK](https://denlysiak.github.io/my-bike-landing/)
+- [MOCKUP LINK](https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1&node-type=canvas)
 
 Landing page is built on basic HTML and SCSS.
 Consists of 20 separate scss blocks one HTML file and utilities folder with reusable mixins, variables, and normalized tags.
